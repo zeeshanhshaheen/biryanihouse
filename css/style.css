@@ -801,6 +801,10 @@ size footer strong {
   h2 {
     font-size: 30px;
   }
+  .food-pic {
+    width: 80px;
+    height: 200px;
+  }
   #feature {
     padding-top: 80px;
     padding-bottom: 80px;
