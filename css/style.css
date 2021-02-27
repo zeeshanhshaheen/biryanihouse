@@ -696,8 +696,7 @@ size footer strong {
 /* copyright section  */
 
 #copyright p {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px;
 }
 
 .gototop {
@@ -828,8 +827,5 @@ size footer strong {
   }
   footer {
     text-align: center;
-  }
-  #copyright p {
-    margin-left: 20px;
   }
 }
